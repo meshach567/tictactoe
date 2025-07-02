@@ -157,11 +157,11 @@ const TicTacToe = () => {
           <div className="flex justify-center space-x-6 text-sm text-gray-600">
             <div className="flex items-center space-x-2">
               <span className="text-lg">🐰</span>
-              <span>You</span>
+              <span>Rabbit</span>
             </div>
             <div className="flex items-center space-x-2">
               <span className="text-lg">🥕</span>
-              <span>AI</span>
+              <span>Carrot</span>
             </div>
           </div>
         </CardContent>
